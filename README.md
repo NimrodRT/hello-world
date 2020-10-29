@@ -1,4 +1,3 @@
 # HELLO WORLD
 My first project / repo on github.
-
- Hopefully I'll learn some  things :)
+ Hopefully I'll learn some cool things :)
