@@ -1,4 +1,4 @@
-# hello-world
-My first project.
+# HELLO WORLD
+My first project / repo on github.
 
-Will hopefully learn to write good code after this new journey!
+ Hopefully I'll learn some  things :)
